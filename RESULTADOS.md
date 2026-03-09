@@ -2,15 +2,22 @@
 
 
 ## 📈 Resumen
-✅ 0 correctas de 2 queries
+✅ 2 correctas de 3 queries
 
-## ❌ Query 1: Error
-- **Descripción**: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT nombre
-FROM producto
+## ✅ Query 1: Correcto
 
--- 2. Llista els noms i els preus de tots els produ' at line 3
+⏱ Tiempo: 0.39 ms
+🔍 No se usó ningún índice en esta consulta.
 
+---
 
-## ❌ Query 2: Error
+## ✅ Query 2: Correcto
+
+⏱ Tiempo: 0.38 ms
+🔍 No se usó ningún índice en esta consulta.
+
+---
+
+## ❌ Query 3: Error
 - **Descripción**: 'NoneType' object is not iterable
 
